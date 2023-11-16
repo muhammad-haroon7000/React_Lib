@@ -11,3 +11,13 @@
 - In this day i learn how rect parse the data ,
 - create custom jsx
 - use jsx to directly pass in react
+
+# - 16_Nov_2023
+
+- Familiarity with tailwind CSS
+- Props
+
+### Props is properties ,
+
+- Props are used to send data from one component to another
+- Props are read only we can't change it in receiving component.
